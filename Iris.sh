@@ -37,6 +37,7 @@ PROGRAMAS_PARA_INSTALAR_APT=(
   winff
   guvcview
   virtualbox
+  htop
 )
 PROGRAMAS_PARA_INSTALAR_SNAP=(
   spotify
